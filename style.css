@@ -36,3 +36,125 @@
     width: 70%;
     padding-left: 30px;
 }
+
+.second-heading{
+    font-size: 50px;
+    text-align: center;
+    
+}
+#second-heading{
+    color: orange;
+}
+
+
+#p-mission{
+    font-size: 20px;
+}
+.mission{
+    width: 30%;
+    padding-left: 7%;
+}
+.mission img{
+    width: 40%;
+}
+
+
+#p-vission{
+    font-size: 20px;
+}
+.vission{
+    width: 30%;
+    padding-left: 7%;
+}
+.vission img{
+    width: 40%;
+}
+
+.mission-vission-goal{
+    font-weight: 700;
+}
+#p-Goal{
+    font-size: 20px;
+
+}
+
+.goal{
+    width: 30%;
+    padding-left: 7%;
+
+
+}
+.goal img{
+    width: 40%;
+}
+.desiar{
+    display: flex;
+    flex-direction: row;
+}
+#font-edit{
+    font-weight: 700;
+    font-size: 40px;
+}
+#p-develop{
+    font-size: 20px;
+    padding: 30px 0px;
+}
+.last-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 7%;
+    font-weight: 700;
+
+}
+.third-segment{
+    
+    width: 50%;
+    
+
+}
+#resolved{
+    padding-top: 10%;
+}
+.development{
+    
+    display: flex;
+}
+.development img{
+    width: 70%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.global-community{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.p-community{
+    font-size: 20px;
+    
+
+}
+.r-button{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: tomato;
+    border-radius: 7%;
+    text-decoration:none;
+    padding: 18px 13px;
+    margin-top: 15px;
+
+}
+.com{
+    width:45%;
+    padding: 5%;
+}
+.community-section{
+    display: flex;
+    padding-top: 50px;
+}
+.com img{
+    width:80%;
+}
