@@ -158,3 +158,48 @@
 .com img{
     width:80%;
 }
+.last-one{
+    width: 45%;
+    padding: 5%;
+}
+#final-heading{
+    font-size: 45px;
+    font-weight:700;
+
+}
+.cl{
+    color: tomato;
+}
+.p-covid{
+    font-size: 25px;
+}
+.a-app{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 15px;
+    border-radius: 5%;
+    background-color: tomato;
+}
+.covid{
+    width: 45%;
+    padding: 5%;
+}
+.covid-aware{
+    display: flex;
+    
+}
+.last-one img{
+    width: 70%;
+}
+.foot{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#colo{
+    color: tomato;
+}
